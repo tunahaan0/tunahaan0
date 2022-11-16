@@ -6,9 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/tunahaan00" target="blank"><img src="https://img.shields.io/twitter/follow/tunahaan00?logo=twitter&style=for-the-badge" alt="tunahaan00" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Developer / C#, Html, Css, Javascript, Angular**
+- 🔭 I’m currently working on **Full Stack Developer / C#, .NETCORE, TypeScript, OOP, Design Patterns, Enterprise Architecture
+JavaScript, Angular**
 
-- 🌱 I’m currently learning **.Net Core, Angular, Javascript , C#**
+- 🌱 I’m currently learning **.Net Core, Angular, Javascript, TypeScript, OOP, Design Patterns, Enterprise Architecture , C#**
 
 - 📫 How to reach me **ttbzh781@gmail.com**
 
